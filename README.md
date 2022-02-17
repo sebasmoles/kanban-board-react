@@ -1,22 +1,22 @@
 # Kanban Board React.js
 
--  It was built using [React.js v17.x.x](https://reactjs.org/).
+🛠 It was built with [React.js v17.x.x](https://reactjs.org/).
 
-# Project setup
+## Project setup
 
-## Install dependencies
+### Install dependencies
 
 ```
 npm install
 ```
 
-## Run React dev server (http://localhost:3000)
+### Run React dev server (http://localhost:3000)
 
 ```
 npm run start
 ```
 
-## Compiles and minifies for production
+### Compiles and minifies for production
 
 ```
 npm run build
